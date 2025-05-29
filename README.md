@@ -1,5 +1,5 @@
 # ResearchProject
-Risk Analysis of the Medical Insurance Beneficiary 
+Study on Risk Analysis of the Medical Insurance Beneficiary 
   
 
 
